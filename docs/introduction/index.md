@@ -1,5 +1,5 @@
 # Introduction
-
+#CryptoCurrency
 Lightning Development Kit (LDK) is a full and completely standalone Lightning implementation with supporting modules enabling greater flexibility.
 
 You can build a Lightning node without needing to worry about getting all of the Lightning state machine, routing, and on-chain punishment code (and other chain interactions) exactly correct. LDK tends to be suitable for use cases where a degree of customization is desired, e.g. your own chain sync, your own key management and/or your own storage/backup logic.
